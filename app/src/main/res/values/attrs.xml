@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandableLayout">
+        <attr name="exp_shrink_width" format="float"/>
+        <attr name="exp_shrink_height" format="float"/>
+    </declare-styleable>
+</resources>
